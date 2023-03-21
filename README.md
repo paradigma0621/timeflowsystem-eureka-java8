@@ -9,9 +9,11 @@ This project is designed to run in *Java 8*.
 2023-03-17 - Connected Config microservice with Core microservice
 2023-03-18 - Connected Config microservice with Eureka microservice
 
+2023-03-20 - Unified Config + Eureka + Core  (See specific branch inside those repositories)
+
 It gets the properties (example: the port to run) from Connfig Server repository:
 http://localhost:8888/eureka-java8/default
-(file: https://github.com/mselucas/configRepo/blob/master/eureka-java8.properties )
+(file: https://github.com/mselucas/configRepo/blob/master/eureka-java8.yml )
 
 Access to see the monitor page:
 http://localhost:8761/
