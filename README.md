@@ -22,3 +22,12 @@ http://localhost:8888/eureka-java8/default
 Access to see the monitor page:
 http://localhost:8761/
 
+List of microservices correlated: <br>
+https://github.com/paradigma0621/timeflowsystem-config-java8 <br>
+https://github.com/paradigma0621/timeflowsystem-eureka-java8 <br>
+https://github.com/paradigma0621/timeflowsystem-report-java8 <br>
+https://github.com/paradigma0621/timeflowsystem-core-java8 <br>
+https://github.com/paradigma0621/timeflowsystem-api-java8 <br>
+https://github.com/paradigma0621/timeflowsystem-gateway-java8
+
+In https://github.com/paradigma0621 there is algo all this microservices in Java 17 version.
