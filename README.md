@@ -11,6 +11,9 @@ This project is designed to run in *Java 8*.
 
 2023-03-20 - Unified Config + Eureka + Core  (See specific branch inside those repositories: "2023-03-20-Config+Eureka+Core")
 
+2023-04-07 - Unified Config + Eureka + Report + Gateway (See specific branch inside all their repositories: "2023-04-07-Config+Eureka+Report+Gateway")
+
+
 It gets the properties (example: the port to run) from Connfig Server repository
 :
 http://localhost:8888/eureka-java8/default
