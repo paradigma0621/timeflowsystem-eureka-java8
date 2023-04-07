@@ -6,3 +6,7 @@ spring:
       #uri: ${CONFIG_SERVER_URL:http://localhost:8888}
   config:
     import: "optional:configserver:"
+eureka:
+  client:
+    register-with-eureka: false #false=não auto-regristra o próprio Eureka (útil quando há várias instâncias do Eureka e elas precisam se encontrar)
+    fetch-registry: false #false =the Eureka client will not fetch the registry information from the Eureka server and will use any cached information it has
